@@ -2,9 +2,22 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App h1 {
+  font-size: 55px;
+  margin-top: 60px;
+  font-family: "Mali", cursive;
+  color: #4c3baf;
+  font-weight: bold;
+}
+
+.App footer {
+  font-size: 11px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.App a {
+  text-decoration: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {

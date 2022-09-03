@@ -1,0 +1,26 @@
+.Meaning h3 {
+  color: #4c3baf;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-size: 28px;
+}
+
+.Meaning .title {
+  font-weight: bold;
+  color: #291791;
+  margin-bottom: 7px;
+  font-size: 15px;
+  text-decoration: underline;
+}
+
+.Meaning .definition {
+  color: #0e0255;
+  font-size: 17px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.Meaning .example {
+  color: #0e0255;
+  font-size: 15px;
+}

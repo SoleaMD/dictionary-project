@@ -1,0 +1,29 @@
+.Dictionary .form-control {
+  margin-top: 20px;
+  width: 50%;
+  display: inline;
+  background-color: #e2def7;
+  border: 2px solid #4c3baf;
+  font-weight: bold;
+  box-shadow: 5px 5px #4c3baf;
+}
+
+.Dictionary .search-engine {
+  padding: 10px;
+}
+
+.Dictionary button {
+  border: none;
+  margin-left: 5px;
+  margin-bottom: 6px;
+  background-color: #4c3baf;
+  border-radius: 6px;
+  padding: 2px 10px 5px 10px;
+  border: 3px solid #e2def7;
+  box-shadow: 5px 5px #4c3baf;
+}
+
+.Dictionary button i {
+  color: white;
+  font-size: 25px;
+}
