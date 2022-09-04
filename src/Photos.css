@@ -1,0 +1,14 @@
+.Photos {
+  background-color: #d3cbff;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 7px 7px #4c3baf;
+  border: 3px solid #4c3baf;
+  width: fit-content;
+  margin: 30px auto;
+}
+
+.Photos img {
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
