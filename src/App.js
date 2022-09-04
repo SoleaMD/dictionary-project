@@ -9,7 +9,11 @@ export default function App() {
       <Dictionary defaultKeyword="sunset" />{" "}
       <footer>
         Coded by{" "}
-        <a href="https://github.com/SoleaMD/dictionary-project">
+        <a
+          href="https://github.com/SoleaMD/dictionary-project"
+          target="_blank"
+          rel="noreferrer"
+        >
           SoleaMD
         </a>
       </footer>
